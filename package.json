@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "main": "api/sign-pdf.js",
   "scripts": {
-    "start": "node api/sign-pdf.js"
+    "start": "echo \"No start script per aquest servei serverless\""
   },
   "dependencies": {
     "pdf-lib": "^1.17.1"
   }
 }
+
