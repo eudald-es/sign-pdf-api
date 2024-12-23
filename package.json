@@ -1,0 +1,11 @@
+{
+  "name": "sign-pdf-api",
+  "version": "1.0.0",
+  "main": "api/sign-pdf.js",
+  "scripts": {
+    "start": "node api/sign-pdf.js"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
